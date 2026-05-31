@@ -20,4 +20,3 @@ I build practical tools at the intersection of **IT operations, security, and co
 💼 **LinkedIn:** https://www.linkedin.com/in/juan-andres-rodriguez-itil
 📍 Dublin, Ireland · open to remote
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&theme=tokyonight)
