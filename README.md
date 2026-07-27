@@ -1,23 +1,130 @@
-### Hi, I'm Juan 👋
+<!-- Profile README · juandresrodca · scout theme (navy #0a0e16 / lime #9fef00) -->
 
-IT Systems & Support Specialist (14+ yrs) in Dublin, moving deeper into
-**security engineering and automation**. ITIL v3 certified.
+<div align="center">
 
-I build practical tools at the intersection of **IT operations, security, and code**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e16,55:16351a,100:9fef00&height=200&section=header&text=Juan%20Andres%20Rodriguez&fontColor=e6f7c9&fontSize=44&fontAlignY=34&desc=Microsoft%20365%20%26%20Endpoint%20Engineer%20%C2%B7%20Intune%20%C2%B7%20Security%20%26%20Automation&descAlignY=55&descSize=17&animation=fadeIn" width="100%" alt="Juan Andres Rodriguez" />
 
-🔭 **Currently building**
-- 🏆 [**job-application-tracker**](https://github.com/juandresrodca/job-application-tracker) — Free .NET 8 WPF desktop app to track job applications · Kanban board, Obsidian sync, PDF & email import · [🌐 landing page](https://juandresrodca.github.io/job-application-tracker/) · [![v0.1.0](https://img.shields.io/badge/version-0.1.0--beta-orange)](https://github.com/juandresrodca/job-application-tracker/releases/tag/v0.1.0) [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-e35d6a?logo=githubsponsors)](https://github.com/sponsors/juandresrodca)
-- [claude-usage-monitor](https://github.com/juandresrodca/claude-usage-monitor) — C#/.NET 8 WPF tray app, DPAPI-encrypted, packaged release
-- [DorkCraft](https://github.com/juandresrodca/DorkCraft) — OSINT dork generator (Astro + FastAPI)
-- [AI-IT-Support-Copilot](https://github.com/juandresrodca/AI-IT-Support-Copilot) — AI service-desk assistant (Python)
-- [InventoryMaper](https://github.com/juandresrodca/InventoryMaper) — An inventory system for a IT department 
+<a href="https://github.com/juandresrodca">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=780&lines=Microsoft+365+%26+Intune+engineer+%C2%B7+Dublin;PowerShell+%2B+Microsoft+Graph+automation;Security%2C+SOC+%26+recon+%E2%80%94+OSCP+track;I+turn+Intune+tenants+into+queryable+graphs;14%2B+years+in+IT%2C+now+building+in+the+open" alt="What I do" />
+</a>
 
+<br/>
 
-🌱 **Learning:** Python, offensive security (Hack The Box), cloud automation
+<a href="https://www.linkedin.com/in/juan-andres-rodriguez-itil"><img src="https://img.shields.io/badge/LinkedIn-0a0e16?style=for-the-badge&logo=linkedin&logoColor=9fef00" alt="LinkedIn" /></a>
+<a href="https://juandresrodca.github.io/cv-juan"><img src="https://img.shields.io/badge/Portfolio-0a0e16?style=for-the-badge&logo=astro&logoColor=9fef00" alt="Portfolio" /></a>
+<a href="mailto:juandresrodca@gmail.com"><img src="https://img.shields.io/badge/Email-0a0e16?style=for-the-badge&logo=gmail&logoColor=9fef00" alt="Email" /></a>
+<a href="https://github.com/sponsors/juandresrodca"><img src="https://img.shields.io/badge/Sponsor-0a0e16?style=for-the-badge&logo=githubsponsors&logoColor=9fef00" alt="Sponsor" /></a>
+<a href="https://github.com/juandresrodca"><img src="https://img.shields.io/github/followers/juandresrodca?style=for-the-badge&logo=github&logoColor=9fef00&label=Follow&color=0a0e16&labelColor=0a0e16" alt="Follow" /></a>
 
-🛠️ **Stack:** C# / .NET · Python · PowerShell · Bash · Azure · M365 · Linux · ServiceNow
+</div>
 
-🔗 **Portfolio:** https://juandresrodca.github.io/cv-juan
-💼 **LinkedIn:** https://www.linkedin.com/in/juan-andres-rodriguez-itil
-📍 Dublin, Ireland · open to remote
+---
 
+## `>` whoami
+
+IT Systems & Support Specialist with **14+ years** in the field (Dublin, Ireland), now going deeper into **endpoint engineering, Microsoft 365 automation and security**. ITIL v3 certified, OSCP track. I build focused, open-source tools at the intersection of **IT operations, security and code** — each one meant to be genuinely useful and to earn its stars.
+
+```powershell
+$juan = [pscustomobject]@{
+    Role     = 'Microsoft 365 & Endpoint Engineer'
+    Based    = 'Dublin, Ireland  ·  14+ yrs in IT'
+    Focus    = @('Intune / Entra', 'PowerShell + Graph automation', 'Security · SOC · recon')
+    Certs    = @('ITIL v3', 'OSCP (in progress)')
+    Building = 'IntuneGraph — Intune tenants as queryable graphs'
+    Mantra   = 'Ship small tools that solve a real problem, in the open.'
+}
+```
+
+---
+
+## `>` tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=powershell,dotnet,cs,python,bash,azure,git,github,linux,sqlite,astro,html,css,js,vscode&theme=dark" alt="Tech stack" />
+
+</div>
+
+**Cloud & Endpoint** &nbsp;`Microsoft 365` · `Intune` · `Entra ID` · `Microsoft Graph` · `Autopilot` · `Azure`
+**Languages** &nbsp;`PowerShell` · `C# / .NET` · `Python` · `Bash` · `JavaScript`
+**Build & Web** &nbsp;`WPF` · `Astro` · `SQLite` · `Git` · `GitHub Actions`
+**Security** &nbsp;`SOC analysis` · `OSINT / recon` · `phishing analysis` · `Hack The Box`
+
+---
+
+## `>` featured projects
+
+### 🛰️ Microsoft 365 · Intune · PowerShell
+
+| Project | What it is | Links |
+|---|---|---|
+| **IntuneGraph** ⭐ | Turn an Intune tenant into an **interactive relationship graph** — target resolution, blast-radius impact preview, and assignment hygiene checks. Read-only, offline demo. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/IntuneGraph/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/IntuneGraph) |
+| **Enterprise-Onboarding-Platform** | Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
+| **InventoryIQ** | A Microsoft 365 Copilot agent for IT asset & datacenter reasoning. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryIQ) |
+
+### 🛡️ Security · SOC · recon
+
+| Project | What it is | Links |
+|---|---|---|
+| **DorkCraft** | Google-dork / OSINT generator (Astro + FastAPI). | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/DorkCraft) |
+| **Phishing-Detection-Sim** | Lightweight SOC phishing-analysis tool. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Phishing-Detection-Sim) |
+| **PassiveReconn** | CLI for passive reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
+
+### 🖥️ .NET · C# desktop
+
+| Project | What it is | Links |
+|---|---|---|
+| **job-application-tracker** | .NET 8 WPF app — Kanban board, Obsidian sync, PDF & email import. | [![live](https://img.shields.io/badge/landing-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/job-application-tracker/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/job-application-tracker) |
+| **claude-usage-monitor** | C#/.NET 8 WPF tray app, DPAPI-encrypted, packaged release. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/claude-usage-monitor) |
+| **InventoryMaper** | Inventory system for an IT department. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryMaper) |
+
+### 🔌 Hardware · AI-for-IT
+
+| Project | What it is | Links |
+|---|---|---|
+| **FlipperKit** | 🐬 Companion CLI for the Flipper Zero — back up the SD card and more. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/FlipperKit) |
+| **AI-IT-Support-Copilot** | AI service-desk assistant for IT support. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/AI-IT-Support-Copilot) |
+
+---
+
+## `>` github stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&hide_border=true&bg_color=0d1320&title_color=9fef00&text_color=c9d4e3&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&hide_border=true&bg_color=0d1320&title_color=9fef00&text_color=c9d4e3&langs_count=8" alt="top langs" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=juandresrodca&hide_border=true&background=0d1320&stroke=1e2c45&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=c9d4e3&dates=7c8aa0&currStreakNum=c9d4e3&sideNums=c9d4e3" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juandresrodca&bg_color=0d1320&color=9fef00&line=9fef00&point=58a6ff&area=true&hide_border=true" width="98%" alt="activity graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=juandresrodca&theme=matrix&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
+
+</div>
+
+---
+
+## `>` 2026 roadmap
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d1320','primaryTextColor':'#c9d4e3','primaryBorderColor':'#9fef00','lineColor':'#27395a','fontFamily':'monospace'}}}%%
+flowchart LR
+    A([TenStarsRoad<br/>10 stars per tool]) --> B[IntuneGraph<br/>PSGallery + drift diff]
+    A --> C[ConsentGuard<br/>M365 OAuth watchdog]
+    A --> D[Security track<br/>HTB to OSCP]
+    B --> E[Grow the Intune<br/>admin toolset]
+    C --> E
+    D --> F[Blue-team +<br/>M365 security]
+    E --> G([Open-source<br/>portfolio that ships])
+    F --> G
+    style A fill:#16351a,stroke:#9fef00,color:#9fef00
+    style G fill:#16351a,stroke:#9fef00,color:#9fef00
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9fef00,45:16351a,100:0a0e16&height=110&section=footer&text=thanks%20for%20visiting%20%C2%B7%20let's%20build&fontColor=e6f7c9&fontSize=15&fontAlignY=72" width="100%" alt="footer" />
+
+</div>
