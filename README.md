@@ -100,24 +100,7 @@ $juan = [pscustomobject]@{
 
 </div>
 
----
 
-## `>` 2026 roadmap
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d1320','primaryTextColor':'#c9d4e3','primaryBorderColor':'#9fef00','lineColor':'#27395a','fontFamily':'monospace'}}}%%
-flowchart LR
-    A([TenStarsRoad<br/>10 stars per tool]) --> B[IntuneGraph<br/>PSGallery + drift diff]
-    A --> C[ConsentGuard<br/>M365 OAuth watchdog]
-    A --> D[Security track<br/>HTB to OSCP]
-    B --> E[Grow the Intune<br/>admin toolset]
-    C --> E
-    D --> F[Blue-team +<br/>M365 security]
-    E --> G([Open-source<br/>portfolio that ships])
-    F --> G
-    style A fill:#16351a,stroke:#9fef00,color:#9fef00
-    style G fill:#16351a,stroke:#9fef00,color:#9fef00
-```
 
 ---
 
