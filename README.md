@@ -87,21 +87,6 @@ $juan = [pscustomobject]@{
 
 ---
 
-## `>` github stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&hide_border=true&bg_color=0d1320&title_color=9fef00&text_color=c9d4e3&icon_color=58a6ff&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&hide_border=true&bg_color=0d1320&title_color=9fef00&text_color=c9d4e3&langs_count=8" alt="top langs" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=juandresrodca&hide_border=true&background=0d1320&stroke=1e2c45&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=c9d4e3&dates=7c8aa0&currStreakNum=c9d4e3&sideNums=c9d4e3" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juandresrodca&bg_color=0d1320&color=9fef00&line=9fef00&point=58a6ff&area=true&hide_border=true" width="98%" alt="activity graph" />
-
-</div>
-
-
-
 ---
 
 <div align="center">
