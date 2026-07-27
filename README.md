@@ -2,7 +2,7 @@
 
 <div align="center">
 
-type=waving&color=0:0a0e16,55:16351a,100:9fef00&height=200&section=header&text=Juan%20Andres%20Rodriguez&fontColor=e6f7c9&fontSize=44&fontAlignY=34&desc=Microsoft%20365%20%26%20Endpoint%20Engineer%20%C2%B7%20Intune%20%C2%B7%20Security%20%26%20Automation&descAlignY=55&descSize=17&animation=fadeIn" width="100%" alt="Juan Andres Rodriguez" />
+
 
 <a href="https://github.com/juandresrodca">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=780&lines=Microsoft+365+%26+Intune+engineer+%C2%B7+Dublin;PowerShell+%2B+Microsoft+Graph+automation;Security%2C+SOC+%26+recon+%E2%80%94+OSCP+track;I+turn+Intune+tenants+into+queryable+graphs;14%2B+years+in+IT%2C+now+building+in+the+open" alt="What I do" />
