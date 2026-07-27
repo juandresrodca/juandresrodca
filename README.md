@@ -98,8 +98,6 @@ $juan = [pscustomobject]@{
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=juandresrodca&bg_color=0d1320&color=9fef00&line=9fef00&point=58a6ff&area=true&hide_border=true" width="98%" alt="activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=juandresrodca&theme=matrix&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
-
 </div>
 
 ---
