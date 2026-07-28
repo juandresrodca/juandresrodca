@@ -30,7 +30,7 @@ $juan = [pscustomobject]@{
     Focus    = @('Intune / Entra', 'PowerShell + Graph automation', 'Security · SOC · recon')
     Certs    = @('ITIL v3', 'OSCP (in progress)')
     Building = 'IntuneGraph — Intune tenants as queryable graphs'
-    Mantra   = 'Ship small tools that solve a real problem, in the open.'
+    Mantra   = 'Ship small tools that solve a real problem, in the open.','I can fix it .'
 }
 ```
 
