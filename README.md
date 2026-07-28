@@ -22,7 +22,7 @@
 
 ## `>` whoami
 
-IT Systems & Support Specialist with **14+ years** in the field (Dublin, Ireland), now going deeper into **endpoint engineering, Microsoft 365 automation and security**. ITIL v3 certified, OSCP track. I build focused, open-source tools at the intersection of **IT operations, security and code** — each one meant to be genuinely useful.
+IT Systems & Support Specialist with **14+ years** in the field (Dublin, Ireland), now going deeper into **endpoint engineering, Microsoft 365 automation and security**. ITIL v3 certified, OSCP track. I build focused, open-source tools at the intersection of **IT operations, security and code** Each one meant to be genuinely useful.
 ```powershell
 $juan = [pscustomobject]@{
     Role     = 'Microsoft 365 & Endpoint Engineer'
