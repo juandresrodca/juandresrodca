@@ -1,0 +1,52 @@
+name: Refresh GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * 0"     # weekly, Sunday 06:00 UTC
+  workflow_dispatch:          # lets you run it on demand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stat cards (keep previous copy if the service is down)
+        run: |
+          mkdir -p assets
+          COMMON="hide_border=false&title_color=22d3ee&text_color=94a3b8&bg_color=0b1120&border_color=1f2937"
+
+          fetch () {
+            url="$1"; out="$2"
+            for i in 1 2 3 4 5; do
+              if curl -fsS --max-time 30 "$url" -o "$out.tmp" \
+                 && head -c 5 "$out.tmp" | grep -q "<svg"; then
+                mv "$out.tmp" "$out"
+                echo "refreshed: $out"
+                return 0
+              fi
+              echo "attempt $i failed for $out; retrying..."
+              sleep 15
+            done
+            rm -f "$out.tmp"
+            echo "WARNING: could not refresh $out — keeping the previous committed version"
+            return 0
+          }
+
+          fetch "https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&ring_color=22d3ee&icon_color=3b82f6&${COMMON}" assets/github-stats.svg
+          fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&langs_count=8&${COMMON}" assets/top-langs.svg
+
+      - name: Commit if the cards changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg assets/top-langs.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh GitHub stats cards"
+            git push
+          fi
