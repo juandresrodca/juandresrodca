@@ -86,13 +86,6 @@ $juan = [pscustomobject]@{
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img alt="Juan Rodriguez's GitHub metrics" src="./github-metrics.svg" width="100%" />
-
-</div>
 
 ---
 
