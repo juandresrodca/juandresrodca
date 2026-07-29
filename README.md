@@ -85,7 +85,7 @@ $juan = [pscustomobject]@{
 | **AI-IT-Support-Copilot** | AI service-desk assistant for IT support. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/AI-IT-Support-Copilot) |
 
 ---
-<img height="180em" src="https://camo.githubusercontent.com/126a7dd085337a14d2cbf0ba2b30162daa70efd254dfe686ca795c984f08cb73/68747470733a2f2f6769746875622d726561646d652d73746174732d616c7068612d666c61782e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617264616c74756e656c266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=ardaltunel&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
+<img height="180em" src="https://camo.githubusercontent.com/126a7dd085337a14d2cbf0ba2b30162daa70efd254dfe686ca795c984f08cb73/68747470733a2f2f6769746875622d726561646d652d73746174732d616c7068612d666c61782e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d617264616c74756e656c266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats-alpha-flax.vercel.app/api/top-langs/?username=juandresrodca&amp;layout=compact&amp;langs_count=10&amp;theme=tokyonight&amp;hide_border=true" style="max-width: 100%;">
 
 ---
 
