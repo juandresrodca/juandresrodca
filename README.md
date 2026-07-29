@@ -58,7 +58,7 @@ $juan = [pscustomobject]@{
 | Project | What it is | Links |
 |---|---|---|
 | **IntuneGraph** ⭐ | Turn an Intune tenant into an **interactive relationship graph** — target resolution, blast-radius impact preview, and assignment hygiene checks. Read-only, offline demo. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/IntuneGraph/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/IntuneGraph) |
-| **Enterprise-Onboarding-Platform** | Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
+| **Enterprise-Onboarding-Platform** ⭐| Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
 | **InventoryIQ** | A Microsoft 365 Copilot agent for IT asset & datacenter reasoning. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryIQ) |
 
 ### 🛡️ Security · SOC · recon
