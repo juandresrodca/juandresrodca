@@ -90,8 +90,7 @@ $juan = [pscustomobject]@{
 
 <div align="center">
 
-<img height="165" alt="Juan's GitHub stats" src="./assets/github-stats.svg" />
-<img height="165" alt="Top languages" src="./assets/top-langs.svg" />
+<img alt="Juan Rodriguez's GitHub metrics" src="./github-metrics.svg" width="100%" />
 
 </div>
 
