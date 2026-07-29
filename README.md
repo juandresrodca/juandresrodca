@@ -85,7 +85,19 @@ $juan = [pscustomobject]@{
 | **AI-IT-Support-Copilot** | AI service-desk assistant for IT support. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/AI-IT-Support-Copilot) |
 
 ---
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&cache_seconds=60" />
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" alt="Juan's GitHub stats"
+  src="https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&title_color=22d3ee&icon_color=3b82f6&text_color=94a3b8&bg_color=0b1120&border_color=1f2937&ring_color=22d3ee&rank_icon=percentile" />
+
+<img height="165" alt="Top languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&hide_border=false&langs_count=8&title_color=22d3ee&text_color=94a3b8&bg_color=0b1120&border_color=1f2937" />
+
+</div>
 ---
 
 <div align="center">
