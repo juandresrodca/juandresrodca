@@ -17,7 +17,7 @@ jobs:
       - name: Fetch stat cards (keep previous copy if the service is down)
         run: |
           mkdir -p assets
-          COMMON="hide_border=false&title_color=22d3ee&text_color=94a3b8&bg_color=0b1120&border_color=1f2937"
+          COMMON="hide_border=false&title_color=9fef00&text_color=9fef00&bg_color=0a0e16&border_color=163a1a"
 
           fetch () {
             url="$1"; out="$2"
@@ -36,7 +36,7 @@ jobs:
             return 0
           }
 
-          fetch "https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&ring_color=22d3ee&icon_color=3b82f6&${COMMON}" assets/github-stats.svg
+          fetch "https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&count_private=true&include_all_commits=true&rank_icon=percentile&ring_color=9fef00&icon_color=9fef00&${COMMON}" assets/github-stats.svg
           fetch "https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&langs_count=8&${COMMON}" assets/top-langs.svg
 
       - name: Commit if the cards changed
