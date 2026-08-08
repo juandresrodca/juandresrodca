@@ -30,7 +30,7 @@ $juan = [pscustomobject]@{
     Focus    = @('Intune / Entra', 'PowerShell + Graph automation', 'Security · SOC · recon')
     Certs    = @('ITIL v3', 'OSCP (in progress)')
     Building = 'IntuneGraph — Intune tenants as queryable graphs'
-    Mantra   = 'Ship small tools that solve a real problem, in the open.','I can fix it .'
+    Mantra   = 'Ship small tools that solve a real problem, in the open.','I can fix it . '
 }
 ```
 
@@ -47,7 +47,7 @@ $juan = [pscustomobject]@{
 **Cloud & Endpoint** &nbsp;`Microsoft 365` · `Intune` · `Entra ID` · `Microsoft Graph` · `Autopilot` · `Azure`
 **Languages** &nbsp;`PowerShell` · `C# / .NET` · `Python` · `Bash` · `JavaScript`
 **Build & Web** &nbsp;`WPF` · `Astro` · `SQLite` · `Git` · `GitHub Actions`
-**Security** &nbsp;`SOC analysis` · `OSINT / recon` · `phishing analysis` · `Hack The Box`
+**Security** &nbsp;`SOC analysis` · `OSINT / recon` · `phishing analysis` · `Hack The Box `
 
 ---
 
