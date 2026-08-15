@@ -61,13 +61,13 @@ $juan = [pscustomobject]@{
 | **Enterprise-Onboarding-Platform** ⭐| Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
 | **InventoryIQ** | A Microsoft 365 Copilot agent for IT asset & datacenter reasoning. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryIQ) |
 
-### 🛡️ Security · SOC · recon
+### 🛡️ Security · SOC · recon .
 
 | Project | What it is | Links |
 |---|---|---|
 | **DorkCraft** | Google-dork / OSINT generator (Astro + FastAPI). | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/DorkCraft) |
 | **Phishing-Detection-Sim** | Lightweight SOC phishing-analysis tool. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Phishing-Detection-Sim) |
-| **PassiveReconn** | CLI for passive reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
+| **PassiveReconn** | CLI for  passive  reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
 
 ### 🖥️ .NET · C# desktop
 
@@ -75,7 +75,7 @@ $juan = [pscustomobject]@{
 |---|---|---|
 | **job-application-tracker** | .NET 8 WPF app — Kanban board, Obsidian sync, PDF & email import. | [![live](https://img.shields.io/badge/landing-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/job-application-tracker/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/job-application-tracker) |
 | **claude-usage-monitor** | C#/.NET 8 WPF tray app, DPAPI-encrypted, packaged release. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/claude-usage-monitor) |
-| **InventoryMaper** | Inventory system for an IT department. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryMaper) |
+| **InventoryMaper** | Inventory  system  for an IT department. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryMaper) |
 
 ### 🔌 Hardware · AI-for-IT
 
