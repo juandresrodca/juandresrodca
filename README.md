@@ -52,22 +52,6 @@ $juan = [pscustomobject]@{
 
 ---
 
-## `>` build activity
-
-<div align="center">
-
-
-
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=juandresrodca&hide_border=true&background=0a0e16&stroke=16351a&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=e6f7c9&currStreakNum=e6f7c9&sideNums=e6f7c9&dates=6b7f5a" alt="Contribution streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=juandresrodca&theme=github-compact&bg_color=0a0e16&color=e6f7c9&line=9fef00&point=9fef00&area=true&area_color=16351a&hide_border=true&custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days" width="98%" alt="Contribution activity graph" />
-
-</div>
 
 ---
 
