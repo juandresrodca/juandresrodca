@@ -57,7 +57,7 @@ $juan = [pscustomobject]@{
 <div align="center">
 
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&langs_count=8&hide_border=true&bg_color=0a0e16&title_color=9fef00&text_color=e6f7c9" alt="Top languages" />
+
 
 <br/>
 
