@@ -22,7 +22,8 @@
 
 ## `>` whoami
 
-IT Systems & Support Specialist with **14+ years** in the field (Dublin, Ireland), now going deeper into **endpoint engineering, Microsoft 365 automation and security**. ITIL v3 certified, OSCP track. I build focused, open-source tools at the intersection of **IT operations, security and code** Each one meant to be genuinely useful.
+IT Systems & Support Specialist with **14+ years** in the field (Dublin, Ireland), now going deeper into **endpoint engineering, Microsoft 365 automation and security**. ITIL v3 certified, OSCP track. I build focused, open-source tools at the intersection of **IT operations, security and code** — each one meant to be genuinely useful.
+
 ```powershell
 $juan = [pscustomobject]@{
     Role     = 'Microsoft 365 & Endpoint Engineer'
@@ -30,7 +31,7 @@ $juan = [pscustomobject]@{
     Focus    = @('Intune / Entra', 'PowerShell + Graph automation', 'Security · SOC · recon')
     Certs    = @('ITIL v3', 'OSCP (in progress)')
     Building = 'IntuneGraph — Intune tenants as queryable graphs'
-    Mantra   = 'Ship small tools that solve a real problem, in the open.','I can fix it . '
+    Mantra   = 'Ship small tools that solve a real problem, in the open.'
 }
 ```
 
@@ -47,7 +48,26 @@ $juan = [pscustomobject]@{
 **Cloud & Endpoint** &nbsp;`Microsoft 365` · `Intune` · `Entra ID` · `Microsoft Graph` · `Autopilot` · `Azure`
 **Languages** &nbsp;`PowerShell` · `C# / .NET` · `Python` · `Bash` · `JavaScript`
 **Build & Web** &nbsp;`WPF` · `Astro` · `SQLite` · `Git` · `GitHub Actions`
-**Security** &nbsp;`SOC analysis` · `OSINT / recon` · `phishing analysis` · `Hack The Box `
+**Security** &nbsp;`SOC analysis` · `OSINT / recon` · `phishing analysis` · `Hack The Box`
+
+---
+
+## `>` build activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=juandresrodca&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0e16&title_color=9fef00&icon_color=9fef00&text_color=e6f7c9&ring_color=9fef00" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&langs_count=8&hide_border=true&bg_color=0a0e16&title_color=9fef00&text_color=e6f7c9" alt="Top languages" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=juandresrodca&hide_border=true&background=0a0e16&stroke=16351a&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=e6f7c9&currStreakNum=e6f7c9&sideNums=e6f7c9&dates=6b7f5a" alt="Contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juandresrodca&theme=github-compact&bg_color=0a0e16&color=e6f7c9&line=9fef00&point=9fef00&area=true&area_color=16351a&hide_border=true&custom_title=Contribution%20activity%20%C2%B7%20last%2031%20days" width="98%" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
@@ -57,37 +77,52 @@ $juan = [pscustomobject]@{
 
 | Project | What it is | Links |
 |---|---|---|
-| **IntuneGraph** ⭐ | Turn an Intune tenant into an **interactive relationship graph** — target resolution, blast-radius impact preview, and assignment hygiene checks. Read-only, offline demo. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/IntuneGraph/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/IntuneGraph) |
-| **Enterprise-Onboarding-Platform** ⭐| Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
+| **IntuneGraph** ⭐ | Turn an Intune tenant into an **interactive relationship graph** — target resolution, blast-radius impact preview, and assignment hygiene checks. Ships an MCP server so an AI assistant can answer *why* a policy applies. Read-only, offline demo. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/IntuneGraph/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/IntuneGraph) |
+| **Enterprise-Onboarding-Platform** ⭐ | Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
 | **InventoryIQ** | A Microsoft 365 Copilot agent for IT asset & datacenter reasoning. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryIQ) |
 
-### 🛡️ Security · SOC · recon .
+### 🛡️ Security · SOC · recon
 
 | Project | What it is | Links |
 |---|---|---|
 | **DorkCraft** | Google-dork / OSINT generator (Astro + FastAPI). | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/DorkCraft) |
+| **EntraHuntKit** | SecLists, but for M365 defenders — paste-ready, **ATT&CK-mapped KQL** threat-hunting queries and IOCs for Entra ID and Microsoft 365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/EntraHuntKit) |
 | **Phishing-Detection-Sim** | Lightweight SOC phishing-analysis tool. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Phishing-Detection-Sim) |
-| **PassiveReconn** | CLI for  passive  reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
+| **PassiveReconn** | CLI for passive reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
+| **sherlock-telegram** | Sherlock-style OSINT reconnaissance for Telegram identities. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/sherlock-telegram) |
 
-### 🖥️ .NET · C# desktop
+### 🖥️ .NET · C# · self-hosted
 
 | Project | What it is | Links |
 |---|---|---|
-| **job-application-tracker** | .NET 8 WPF app — Kanban board, Obsidian sync, PDF & email import. | [![live](https://img.shields.io/badge/landing-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/job-application-tracker/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/job-application-tracker) |
+| **AdminForge** | Self-hosted toolbox of browser-based utilities for sysadmins — subnets, certificates, DNS, mail records, Windows error codes. One container, no database, no accounts. **Good first issues open.** | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/AdminForge) [![good first issues](https://img.shields.io/github/issues/juandresrodca/AdminForge/good%20first%20issue?logo=github&logoColor=0a0e16&label=good%20first%20issues&color=9fef00)](https://github.com/juandresrodca/AdminForge/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) |
+| **job-application-tracker** | .NET 8 WPF app — Kanban board, Obsidian sync, PDF & email import. | [![landing](https://img.shields.io/badge/landing-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/job-application-tracker/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/job-application-tracker) |
 | **claude-usage-monitor** | C#/.NET 8 WPF tray app, DPAPI-encrypted, packaged release. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/claude-usage-monitor) |
-| **InventoryMaper** | Inventory  system  for an IT department. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryMaper) |
+| **InventoryMaper** | Inventory system for an IT department. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryMaper) |
 
 ### 🔌 Hardware · AI-for-IT
 
 | Project | What it is | Links |
 |---|---|---|
-| **FlipperKit** | 🐬 Companion CLI for the Flipper Zero — back up the SD card and more. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/FlipperKit) |
+| **FlipperKit** | 🐬 Companion CLI for the Flipper Zero — back up the SD card, parse NFC / Sub-GHz artifacts. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/FlipperKit) |
 | **AI-IT-Support-Copilot** | AI service-desk assistant for IT support. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/AI-IT-Support-Copilot) |
+| **RepoSimpleView** | Read any GitHub repo, identify its algorithms, and see them as flowcharts. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/RepoSimpleView) |
+
+### 🌐 Web · portfolio
+
+| Project | What it is | Links |
+|---|---|---|
+| **cv-juan** | My CV as a static Astro site, deployed to GitHub Pages. | [![live](https://img.shields.io/badge/live-9fef00?logo=astro&logoColor=0a0e16)](https://juandresrodca.github.io/cv-juan) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/cv-juan) |
+| **tecnicosuy** | Site for Técnicos UY — freelance IT & cybersecurity consultancy for Spanish-speaking SMBs. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/tecnicosuy) |
 
 ---
 
+## `>` currently
 
----
+- 🔭 Building **IntuneGraph** — assignment resolution, blast-radius previews and an MCP server for Intune.
+- 🌱 Deepening **offensive security** on the OSCP track, with Hack The Box as the lab.
+- 🤝 **AdminForge** has [good first issues](https://github.com/juandresrodca/AdminForge/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) waiting — each one is a self-contained tool. Pick one.
+- 💬 Ask me about **Intune assignment resolution**, **Microsoft Graph automation**, or why your policy is not applying.
 
 <div align="center">
 
