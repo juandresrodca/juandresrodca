@@ -52,9 +52,6 @@ $juan = [pscustomobject]@{
 
 ---
 
-
----
-
 ## `>` featured projects
 
 ### 🛰️ Microsoft 365 · Intune · PowerShell
@@ -64,6 +61,7 @@ $juan = [pscustomobject]@{
 | **IntuneGraph** ⭐ | Turn an Intune tenant into an **interactive relationship graph** — target resolution, blast-radius impact preview, and assignment hygiene checks. Ships an MCP server so an AI assistant can answer *why* a policy applies. Read-only, offline demo. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/IntuneGraph/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/IntuneGraph) |
 | **Enterprise-Onboarding-Platform** ⭐ | Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
 | **InventoryIQ** | A Microsoft 365 Copilot agent for IT asset & datacenter reasoning. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryIQ) |
+| **sc300-practice** | 25 original scenario questions for **Exam SC-300** (Identity & Access Administrator), with an explanation for every option — right and wrong. One HTML file, works offline, no account. | [![live](https://img.shields.io/badge/take%20the%20sample-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/sc300-practice/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/sc300-practice) |
 
 ### 🛡️ Security · SOC · recon
 
