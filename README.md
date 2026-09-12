@@ -71,7 +71,7 @@ $juan = [pscustomobject]@{
 | **EntraHuntKit** | SecLists, but for M365 defenders — paste-ready, **ATT&CK-mapped KQL** threat-hunting queries and IOCs for Entra ID and Microsoft 365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/EntraHuntKit) |
 | **Phishing-Detection-Sim** | Lightweight SOC phishing-analysis tool. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Phishing-Detection-Sim) |
 | **PassiveReconn** | CLI for passive reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
-| **sherlock-telegram** | Sherlock-style OSINT reconnaissance for Telegram identities. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/sherlock-telegram) |
+| **sherlock-telegram** | Sherlock-style OSINT reconnaissance for  Telegram identities. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/sherlock-telegram) |
 
 ### 🖥️ .NET · C# · self-hosted
 
