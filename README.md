@@ -63,7 +63,6 @@ $juan = [pscustomobject]@{
 
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=juandresrodca&hide_border=true&bg_color=0a0e16&color=e6f7c9&title_color=9fef00&line=9fef00&point=9fef00&area=true&area_color=16351a" alt="Contribution activity over the last 31 days" />
 
-<sub>Cards are rendered on demand by <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">github-readme-streak-stats</a> and <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">github-readme-activity-graph</a>. They read the public API only — nothing here is self-reported.</sub>
 
 </div>
 
