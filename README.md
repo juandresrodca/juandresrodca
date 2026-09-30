@@ -76,7 +76,7 @@ $juan = [pscustomobject]@{
 | Project | What it is | Links |
 |---|---|---|
 | **IntuneGraph** ⭐ | Turn an Intune tenant into an **interactive relationship graph** — target resolution, blast-radius impact preview, and assignment hygiene checks. Ships an MCP server so an AI assistant can answer *why* a policy applies. Read-only, offline demo. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/IntuneGraph/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/IntuneGraph) |
-| **Enterprise-Onboarding-Platform** ⭐ | Enterprise user onboarding automation for Active Directory / Entra / M365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
+| **Enterprise-Onboarding-Platform** ⭐ | Enterprise user onboarding automation for Active Directory / Entra / M365. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/Enterprise-Onboarding-Platform/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Enterprise-Onboarding-Platform) |
 | **InventoryIQ** | A Microsoft 365 Copilot agent for IT asset & datacenter reasoning. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/InventoryIQ) |
 | **CompatSentinel** | Capture the **behavioural fingerprint** of a set of Windows apps — launch success, startup time, loaded DLLs, event-log errors — and diff two captures to score regressions. Run it either side of Patch Tuesday or across two OS builds. Read-only, with an MCP server for read-only AI queries. *Early development.* | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/CompatSentinel) |
 | **sc300-practice** | 25 original scenario questions for **Exam SC-300** (Identity & Access Administrator), with an explanation for every option — right and wrong. One HTML file, works offline, no account. | [![live](https://img.shields.io/badge/take%20the%20sample-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/sc300-practice/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/sc300-practice) |
@@ -85,8 +85,8 @@ $juan = [pscustomobject]@{
 
 | Project | What it is | Links |
 |---|---|---|
-| **DorkCraft** | Google-dork / OSINT generator (Astro + FastAPI). | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/DorkCraft) |
-| **EntraHuntKit** | SecLists, but for M365 defenders — paste-ready, **ATT&CK-mapped KQL** threat-hunting queries and IOCs for Entra ID and Microsoft 365. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/EntraHuntKit) |
+| **DorkCraft** | Google-dork / OSINT generator (Astro + FastAPI). | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=astro&logoColor=0a0e16)](https://juandresrodca.github.io/DorkCraft/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/DorkCraft) |
+| **EntraHuntKit** | SecLists, but for M365 defenders — paste-ready, **ATT&CK-mapped KQL** threat-hunting queries and IOCs for Entra ID and Microsoft 365. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=github&logoColor=0a0e16)](https://juandresrodca.github.io/EntraHuntKit/demo/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/EntraHuntKit) |
 | **Phishing-Detection-Sim** | Lightweight SOC phishing-analysis tool. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/Phishing-Detection-Sim) |
 | **PassiveReconn** | CLI for passive reconnaissance. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/PassiveReconn) |
 | **sherlock-telegram** | Sherlock-style OSINT reconnaissance for  Telegram identities. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/sherlock-telegram) |
@@ -107,14 +107,14 @@ $juan = [pscustomobject]@{
 |---|---|---|
 | **FlipperKit** | 🐬 Companion CLI for the Flipper Zero — back up the SD card, parse NFC / Sub-GHz artifacts. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/FlipperKit) |
 | **AI-IT-Support-Copilot** | AI service-desk assistant for IT support. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/AI-IT-Support-Copilot) |
-| **RepoSimpleView** | Read any GitHub repo, identify its algorithms, and see them as flowcharts. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/RepoSimpleView) |
+| **RepoSimpleView** | Read any GitHub repo, identify its algorithms, and see them as flowcharts. | [![live](https://img.shields.io/badge/live%20demo-9fef00?logo=javascript&logoColor=0a0e16)](https://juandresrodca.github.io/RepoSimpleView/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/RepoSimpleView) |
 
 ### 🌐 Web · portfolio
 
 | Project | What it is | Links |
 |---|---|---|
 | **cv-juan** | My CV as a static Astro site, deployed to GitHub Pages. | [![live](https://img.shields.io/badge/live-9fef00?logo=astro&logoColor=0a0e16)](https://juandresrodca.github.io/cv-juan) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/cv-juan) |
-| **tecnicosuy** | Site for Técnicos UY — freelance IT & cybersecurity consultancy for Spanish-speaking SMBs. | [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/tecnicosuy) |
+| **tecnicosuy** | Site for Técnicos UY — freelance IT & cybersecurity consultancy for Spanish-speaking SMBs. | [![live](https://img.shields.io/badge/live%20site-9fef00?logo=github&logoColor=0a0e16)](https://tecnicosuy.com.uy/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/tecnicosuy) |
 
 ---
 
