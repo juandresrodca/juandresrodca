@@ -113,7 +113,7 @@ $juan = [pscustomobject]@{
 | Project | What it is | Links |
 |---|---|---|
 | **cv-juan** | My CV as a static Astro site, deployed to GitHub Pages. | [![live](https://img.shields.io/badge/live-9fef00?logo=astro&logoColor=0a0e16)](https://juandresrodca.github.io/cv-juan) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/cv-juan) |
-| **tecnicosuy** | Site for Técnicos UY — freelance IT & cybersecurity consultancy for Spanish-speaking SMBs. | [![live](https://img.shields.io/badge/live%20site-9fef00?logo=github&logoColor=0a0e16)](https://tecnicosuy.com.uy/) [![repo](https://img.shields.io/badge/repo-0a0e16?logo=github&logoColor=9fef00)](https://github.com/juandresrodca/tecnicosuy) |
+
 
 ---
 
