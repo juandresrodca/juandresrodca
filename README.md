@@ -62,11 +62,12 @@ $juan = [pscustomobject]@{
 <img width="99%" src="https://streak-stats.demolab.com?user=juandresrodca&hide_border=true&background=0a0e16&stroke=16351a&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=e6f7c9&currStreakNum=e6f7c9&sideNums=e6f7c9&dates=6b7f4a" alt="Contribution streak" />
 
 <div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-    width="600"
-  />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </div>
 
 
