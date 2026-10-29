@@ -61,7 +61,9 @@ $juan = [pscustomobject]@{
 
 <img width="99%" src="https://streak-stats.demolab.com?user=juandresrodca&hide_border=true&background=0a0e16&stroke=16351a&ring=9fef00&fire=9fef00&currStreakLabel=9fef00&sideLabels=e6f7c9&currStreakNum=e6f7c9&sideNums=e6f7c9&dates=6b7f4a" alt="Contribution streak" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandresrodca&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 
 </div>
